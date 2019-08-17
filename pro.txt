@@ -1,3 +1,3 @@
 pro init
 pro commit2
-mater update
+mater remote update

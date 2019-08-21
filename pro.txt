@@ -4,3 +4,4 @@ mater remote update
 master local update
 remote commit
 local rebase
+remote last

@@ -5,3 +5,4 @@ master local update
 remote commit
 local rebase
 remote last
+local last

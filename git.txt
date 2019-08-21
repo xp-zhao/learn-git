@@ -18,3 +18,4 @@ third commit update1
 remote rebase
 local rebase
 remote commit
+local commit

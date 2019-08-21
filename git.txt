@@ -12,6 +12,6 @@ remote push
 local push
 remote feature1
 add feature1
-first commit update
-second commit update
-third commit update
+first commit update2
+second commit update1
+third commit update1

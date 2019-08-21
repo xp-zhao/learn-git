@@ -3,3 +3,4 @@ pro commit2
 mater remote update
 master local update
 remote commit
+local rebase

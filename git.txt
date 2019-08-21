@@ -11,3 +11,4 @@ pro commit2
 remote push
 local push
 remote feature1
+add feature1

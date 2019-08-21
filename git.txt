@@ -8,3 +8,4 @@ develop commit
 develop commit2
 pro commit
 pro commit2
+local push

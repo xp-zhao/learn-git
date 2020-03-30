@@ -4,3 +4,4 @@ branch merge test
 
 commit1-update
 commit2
+commit3
